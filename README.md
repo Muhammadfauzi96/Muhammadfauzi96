@@ -1,4 +1,4 @@
-![Hacker Mask](https://cdn.pixabay.com/photo/2020/09/18/19/45/hacker-5582598_960_720.png)
+<img src="https://cdn.pixabay.com/photo/2020/09/18/19/45/hacker-5582598_960_720.png" alt="Hacker Mask" width="100" height="100">
 
 Hi, I'm [muhammad fauzi] 👋
 
@@ -20,4 +20,4 @@ Hi, I'm [muhammad fauzi] 👋
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### Operating System:
-- ![Kali Linux](https://www.kali.org/images/kali-dragon-icon.svg) Kali Linux
+- <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50"> Kali Linux
