@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadfauzi96&layout=compact&theme=radical" alt="Top Languages" width="50%" height="200px" />
-</p>
-
-<p align="center">
-  <!-- Laravel Badge dengan ukuran yang disesuaikan -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="30%" height="50px" />
+  <!-- Menempatkan Most Used Languages dan Laravel Badge dalam satu baris -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadfauzi96&layout=compact&theme=radical" alt="Top Languages" width="48%" height="200px" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="200px" />
 </p>
