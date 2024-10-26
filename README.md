@@ -12,5 +12,5 @@
 <p align="center">
   <!-- Menempatkan Most Used Languages dan Laravel Badge dalam satu baris -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadfauzi96&layout=compact&theme=radical" alt="Top Languages" width="48%" height="200px" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="48%" height="100px" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="200%" height="100px" />
 </p>
