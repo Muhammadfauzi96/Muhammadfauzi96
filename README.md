@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadfauzi96&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadfauzi96&theme=radical" alt="GitHub Streak" width="50%" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadfauzi96&theme=radical" alt="GitHub Streak" width="51%" height="200px" />
 </p>
 
 <p align="center">
