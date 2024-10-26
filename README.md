@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadfauzi96&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadfauzi96&theme=radical" alt="GitHub Streak" width="48%" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadfauzi96&theme=radical" alt="GitHub Streak" width="52%" height="200px" />
 </p>
 
 <p align="center">
@@ -15,5 +15,5 @@
 
 <p align="center">
   <!-- Laravel Badge dengan ukuran yang disesuaikan -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="48%" height="50px" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="30%" height="50px" />
 </p>
